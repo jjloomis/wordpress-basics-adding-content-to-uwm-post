@@ -6,7 +6,7 @@ While the items listed below are not an exhaustive list of all ADA Title II WCAG
 
 #### Audio <a href="#audio" id="audio"></a>
 
-When [adding an audio file to a post](../working-with-media/adding-an-mp3-to-a-post.md), a transcript of the audio file must be included in the post. If you haven't already done so, [create a transcript of the audio file](https://techresources.gitbook.io/microsoft-word-tips-and-tricks/using-word-online-to-transcribe-an-audio-file). Then use the **Transcript** block to [add a transcript to the post](adding-a-transcript-to-a-post.md).
+When [adding an audio file to a post](../working-with-text-and-links/adding-an-mp3.md), a transcript of the audio file must be included in the post. If you haven't already done so, [create a transcript of the audio file](https://techresources.gitbook.io/microsoft-word-tips-and-tricks/using-word-online-to-transcribe-an-audio-file). Then use the **Transcript** block to [add a transcript to the post](adding-a-transcript-to-a-post.md).
 
 #### Bulleted List/Unordered List <a href="#bulleted-list-unordered-list" id="bulleted-list-unordered-list"></a>
 
@@ -18,7 +18,7 @@ When [adding headings/subheadings to a post](../working-with-text-and-links/addi
 
 #### Images <a href="#images" id="images"></a>
 
-When [adding an image to a post](../working-with-text-and-links/adding-an-image.md), the image needs to include alternative (alt) text. Alt text describes what is happening in the image. When a website visitor uses a screen reader, the alt text of each image is read aloud by the screen reader. Alt text should be concise (around 150 characters) and should not contain unnecessary phrases such as "image of." **Note**: A caption is not alt text.
+When [adding an image to a post](../working-with-media/adding-an-image-to-a-post.md), the image needs to include alternative (alt) text. Alt text describes what is happening in the image. When a website visitor uses a screen reader, the alt text of each image is read aloud by the screen reader. Alt text should be concise (around 150 characters) and should not contain unnecessary phrases such as "image of." **Note**: A caption is not alt text.
 
 #### Links <a href="#links" id="links"></a>
 
@@ -33,4 +33,4 @@ When [adding a numbered list to a post](../working-with-text-and-links/adding-a-
 
 #### Video <a href="#video" id="video"></a>
 
-When [adding a video to a post](../working-with-media/adding-a-video-to-a-post.md), the video must include captions. By default, YouTube automatically creates captions for videos uploaded to its platform. However, it is incumbent upon **Media Milwaukee Editors** to ensure that YouTube captions are functioning correctly for any video added to a post.
+When [adding a video to a post](../working-with-text-and-links/adding-a-video-to-a-post.md), the video must include captions. By default, YouTube automatically creates captions for videos uploaded to its platform. However, it is incumbent upon **Media Milwaukee Editors** to ensure that YouTube captions are functioning correctly for any video added to a post.

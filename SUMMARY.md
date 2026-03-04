@@ -14,28 +14,23 @@
 * [Creating a Post](working-with-text-and-links/creating-a-post.md)
 * [Adding Text](working-with-text-and-links/adding-text.md)
 * [Creating or Editing a Link](working-with-text-and-links/creating-a-link.md)
-* [Adding an Image](working-with-text-and-links/adding-an-image.md)
-* [Editing the URL of a Post](working-with-text-and-links/editing-a-url.md)
+* [Adding an Image](working-with-media/adding-an-image-to-a-post.md)
+* [Aligning and Resizing an Image](working-with-text-and-links/aligning-and-resizing-an-image.md)
+* [Adding an MP3](working-with-text-and-links/adding-an-mp3.md)
+* [Adding a Video](working-with-text-and-links/adding-a-video-to-a-post.md)
+* [Adding a Slideshow](working-with-text-and-links/adding-a-slideshow.md)
+* [Aligning and Resizing a Video](working-with-text-and-links/aligning-and-resizing-a-video.md)
+* [Adding a Caption to an Image, MP3, or Video](working-with-text-and-links/adding-a-caption-and-alt-text-to-an-image.md)
+* [Adding Alt Text to an Image](working-with-text-and-links/adding-alt-text-to-an-image.md)
 * [Adding a Heading](working-with-text-and-links/adding-a-heading.md)
 * [Adding a Bulleted List](working-with-text-and-links/adding-a-bulleted-list.md)
 * [Adding a Numbered List](working-with-text-and-links/adding-a-numbered-list.md)
-
-## Working with Media
-
-* [Wrapping Text Around an Image](working-with-media/wrapping-text-around-an-image.md)
-* [Changing the Size of an Image](working-with-media/changing-the-size-of-an-image.md)
-* [Adding a Caption to an Image, MP3, or Video](working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
-* [Adding Alt Text to an Image](working-with-media/adding-alt-text-to-an-image.md)
-* [Removing an Image from a Post](working-with-media/deleting-an-image.md)
-* [Setting a Featured Image](working-with-media/adding-a-featured-image.md)
-* [Adding an MP3 to a Post](working-with-media/adding-an-mp3-to-a-post.md)
-* [Removing an MP3 from a Post](working-with-media/deleting-an-mp3.md)
-* [Adding a Video to a Post](working-with-media/adding-a-video-to-a-post.md)
-* [Removing a Video from a Post](working-with-media/deleting-a-video.md)
-* [Adding a PDF to a Post](working-with-media/adding-a-pdf-to-a-post.md)
-* [Removing a PDF from a Post](working-with-media/deleting-a-pdf.md)
-* [Adding a Horizontal Line to a Post](working-with-media/adding-a-horizontal-line.md)
-* [Removing a Horizontal Line from a Post](working-with-media/deleting-a-horizontal-line.md)
+* [Adding a Blockquote](working-with-text-and-links/adding-a-blockquote.md)
+* [Moving and Deleting Items in a Post](working-with-text-and-links/moving-and-deleting-items-in-a-post.md)
+* [Setting a Featured Image](working-with-text-and-links/adding-a-featured-image.md)
+* [Previewing a Post](working-with-text-and-links/previewing-a-post.md)
+* [Submitting a Post for Review](working-with-text-and-links/submitting-a-post-for-review.md)
+* [Editing the URL of a Post](working-with-text-and-links/editing-a-url.md)
 
 ## Accessibility
 
@@ -44,9 +39,10 @@
 
 ## Administrator Actions
 
-* [Adding Categories and Adding Story to Home Page](administrator-actions/adding-categories-and-adding-story-to-home-page.md)
-* [Working with Roles and Adding Users](administrator-actions/adding-users.md)
 * [Publishing a Pending Post](administrator-actions/publishing-a-pending-post.md)
+* [Adding Categories and Adding Story to Home Page](administrator-actions/adding-categories-and-adding-story-to-home-page.md)
+* [Changing Publication Date and Time](administrator-actions/changing-publication-date-and-time.md)
+* [Working with Roles and Adding Users](administrator-actions/adding-users.md)
 
 ## Troubleshooting
 
