@@ -46,7 +46,6 @@
 
 ## Troubleshooting
 
-* [Unable to Log Into News Site](troubleshooting/unable-to-log-into-news-site.md)
+* [Unable to Log In](troubleshooting/unable-to-log-in.md)
 * [Post has Weird Formatting or Spacing](troubleshooting/post-has-weird-formatting-or-spacing.md)
-* [Text and Images are Totally Misaligned](troubleshooting/text-and-images-dont-align-with-eachother.md)
 * [Featured Image is Wrong or Upside Down on Social Media](troubleshooting/featured-image-is-wrong-or-upside-down-on-social-media.md)

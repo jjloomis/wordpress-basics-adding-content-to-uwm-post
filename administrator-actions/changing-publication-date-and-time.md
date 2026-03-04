@@ -13,3 +13,5 @@
 2. In the **Publish** area, click the post's publication date and time.
 3. In the **calendar** interface, select a new date and time.
 4. When finished, click **Publish**.
+
+<figure><img src="../.gitbook/assets/publication-date.png" alt="Setting the publication date and time for a post"><figcaption><p>Setting the publication date and time for a post.</p></figcaption></figure>
