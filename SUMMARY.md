@@ -46,6 +46,9 @@
 
 ## Troubleshooting
 
+* [Panels in Editor Are Missing](troubleshooting/panels-in-editor-are-missing.md)
 * [Unable to Log In](troubleshooting/unable-to-log-in.md)
-* [Post has Weird Formatting or Spacing](troubleshooting/post-has-weird-formatting-or-spacing.md)
-* [Featured Image is Wrong or Upside Down on Social Media](troubleshooting/featured-image-is-wrong-or-upside-down-on-social-media.md)
+* [Did Not Receive Password Reset Email](troubleshooting/did-not-receive-password-reset-email.md)
+* [Block Toolbar is Missing](troubleshooting/block-toolbar-is-missing.md)
+* [Document and Block Tabs Don’t Appear on Right](troubleshooting/document-and-block-tabs-dont-appear-on-right.md)
+* [Left Panel Items Are Icons (Not Words)](troubleshooting/left-panel-items-are-icons-not-words.md)
