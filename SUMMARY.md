@@ -2,16 +2,17 @@
 
 * [Introduction](README.md)
 
-## Accessing the News Site
+## Accessing UWM Post
 
-* [Accessing UWM Post](accessing-the-news-site/accessing-the-news-site.md)
-* [Logging in to UWM Post](accessing-the-news-site/logging-into-the-news-site.md)
-* [Resetting Your Password](accessing-the-news-site/resetting-your-password.md)
-* [Switching from Dashboard to Live Site](accessing-the-news-site/switching-from-dashboard-to-live-site.md)
+* [Accessing UWM Post Website](accessing-uwm-post/accessing-uwm-post-website.md)
+* [Logging in to UWM Post](accessing-uwm-post/logging-into-the-news-site.md)
+* [Resetting Your Password](accessing-uwm-post/resetting-your-password.md)
+* [Switching from Dashboard to Live Site](accessing-uwm-post/switching-from-dashboard-to-live-site.md)
 
 ## Working with Text and Links
 
 * [Creating a Post](working-with-text-and-links/creating-a-post.md)
+* [Adding Text](working-with-text-and-links/adding-text.md)
 * [Editing the URL of a Post](working-with-text-and-links/editing-a-url.md)
 * [Adding a Heading](working-with-text-and-links/adding-a-heading.md)
 * [Creating or Editing a Link](working-with-text-and-links/creating-a-link.md)
