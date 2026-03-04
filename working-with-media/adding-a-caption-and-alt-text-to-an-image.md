@@ -13,5 +13,5 @@ Credits for an image, MP3, or video from an authorized source should appear in t
 1. In a post, click an image, MP3, or video. The **Block Toolbar** will appear.
 2. In the **Block Toolbar**, click the **Add caption** button.
 3. Click in the **Add caption...** area (beneath image, MP3, or video.) Add your caption and credit.
-4. Add [alt text](broken-reference) (in **Block** panel on right.)
+4. Add [alt text](/broken/pages/-MMpqvRe-xWv9Qg5KSjD) (in **Block** panel on right.)
 5. When finished, click **Save Draft**.

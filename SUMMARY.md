@@ -39,6 +39,10 @@
 * [Removing a Horizontal Line from a Post](working-with-media/deleting-a-horizontal-line.md)
 * [Adding an Image with MP3 to a Post](working-with-media/adding-an-image-with-mp3-to-a-post.md)
 
+## Accessibility
+
+* [Adding a Transcript to a Post](accessibility/adding-a-transcript-to-a-post.md)
+
 ## Administrator Actions
 
 * [Working with Roles and Adding Users](administrator-actions/adding-users.md)
