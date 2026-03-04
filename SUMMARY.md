@@ -12,9 +12,6 @@
 ## Working with Text and Links
 
 * [Creating a Post](working-with-text-and-links/creating-a-post.md)
-* [Adding Categories and Tags](working-with-text-and-links/adding-categories-and-tags.md)
-* [Working with Content in the Visual Editor](working-with-text-and-links/working-with-content-in-the-visual-editor.md)
-* [Working with Content in the Text Editor](working-with-text-and-links/working-with-content-in-the-text-editor.md)
 * [Editing the URL of a Post](working-with-text-and-links/editing-a-url.md)
 * [Adding a Heading](working-with-text-and-links/adding-a-heading.md)
 * [Creating or Editing a Link](working-with-text-and-links/creating-a-link.md)
@@ -46,6 +43,7 @@
 
 ## Administrator Actions
 
+* [Adding Categories and Adding Story to Home Page](administrator-actions/adding-categories-and-adding-story-to-home-page.md)
 * [Working with Roles and Adding Users](administrator-actions/adding-users.md)
 * [Publishing a Pending Post](administrator-actions/publishing-a-pending-post.md)
 
