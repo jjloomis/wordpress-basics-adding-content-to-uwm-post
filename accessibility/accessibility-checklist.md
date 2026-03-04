@@ -18,7 +18,7 @@ When [adding headings/subheadings to a post](../working-with-text-and-links/addi
 
 #### Images <a href="#images" id="images"></a>
 
-When [adding an image to a post](../working-with-media/adding-an-image-to-a-post.md), the image needs to include alternative (alt) text. Alt text describes what is happening in the image. When a website visitor uses a screen reader, the alt text of each image is read aloud by the screen reader. Alt text should be concise (around 150 characters) and should not contain unnecessary phrases such as "image of." **Note**: A caption is not alt text.
+When [adding an image to a post](../working-with-text-and-links/adding-an-image.md), the image needs to include alternative (alt) text. Alt text describes what is happening in the image. When a website visitor uses a screen reader, the alt text of each image is read aloud by the screen reader. Alt text should be concise (around 150 characters) and should not contain unnecessary phrases such as "image of." **Note**: A caption is not alt text.
 
 #### Links <a href="#links" id="links"></a>
 

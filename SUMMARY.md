@@ -4,24 +4,24 @@
 
 ## Accessing UWM Post
 
-* [Accessing UWM Post Website](accessing-uwm-post/accessing-uwm-post-website.md)
-* [Logging in to UWM Post](accessing-uwm-post/logging-into-the-news-site.md)
-* [Resetting Your Password](accessing-uwm-post/resetting-your-password.md)
-* [Switching from Dashboard to Live Site](accessing-uwm-post/switching-from-dashboard-to-live-site.md)
+* [Accessing UWM Post Website](accessing-the-news-site/accessing-the-news-site.md)
+* [Logging in to UWM Post](accessing-the-news-site/logging-into-the-news-site.md)
+* [Resetting Your Password](accessing-the-news-site/resetting-your-password.md)
+* [Switching from Dashboard to Live Site](accessing-the-news-site/switching-from-dashboard-to-live-site.md)
 
 ## Working with Text and Links
 
 * [Creating a Post](working-with-text-and-links/creating-a-post.md)
 * [Adding Text](working-with-text-and-links/adding-text.md)
+* [Creating or Editing a Link](working-with-text-and-links/creating-a-link.md)
+* [Adding an Image](working-with-text-and-links/adding-an-image.md)
 * [Editing the URL of a Post](working-with-text-and-links/editing-a-url.md)
 * [Adding a Heading](working-with-text-and-links/adding-a-heading.md)
-* [Creating or Editing a Link](working-with-text-and-links/creating-a-link.md)
 * [Adding a Bulleted List](working-with-text-and-links/adding-a-bulleted-list.md)
 * [Adding a Numbered List](working-with-text-and-links/adding-a-numbered-list.md)
 
 ## Working with Media
 
-* [Adding an Image to a Post](working-with-media/adding-an-image-to-a-post.md)
 * [Wrapping Text Around an Image](working-with-media/wrapping-text-around-an-image.md)
 * [Changing the Size of an Image](working-with-media/changing-the-size-of-an-image.md)
 * [Adding a Caption to an Image, MP3, or Video](working-with-media/adding-a-caption-and-alt-text-to-an-image.md)
