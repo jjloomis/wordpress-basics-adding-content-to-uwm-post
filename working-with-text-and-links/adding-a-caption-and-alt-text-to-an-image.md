@@ -15,3 +15,5 @@ Credits for an image, MP3, or video from an authorized source should appear in t
 3. Click in the **Add caption...** area (beneath image, MP3, or video.) Add your caption and credit.
 4. Add alt text (in **Block** panel on right.)
 5. When finished, click **Save Draft**.
+
+<figure><img src="../.gitbook/assets/adding-a-caption.png" alt="Adding a caption to an image in a post"><figcaption><p>Adding a caption to an image in a post.</p></figcaption></figure>

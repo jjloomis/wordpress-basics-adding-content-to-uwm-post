@@ -11,3 +11,5 @@ A **Featured Image** must be a landscape-oriented image. Minimum dimensions are 
 3. Click **Set featured image.**
 4. In the **Featured Image** box, use the **Upload** tab to navigate to and select an image on your computer. Or, use the **Media Library** tab to select an image that was previously added to the site.
 5. Click **Set featured image**.
+
+<figure><img src="../.gitbook/assets/featured-image.png" alt="Assigning a Featured Image to a post"><figcaption><p>Assigning a Featured Image to a post.</p></figcaption></figure>

@@ -14,3 +14,13 @@ A properly renamed image might look like this: election-day-loomis-3.mp3.
 2. In a post, click the **Add block** button (plus sign.) Select the **Audio** block.
 3. To upload an MP3, click the **Upload** button. Navigate to and select the MP3 on your computer.
 4. To select an MP3 from the **Media Library**, click the **Media Library** button. Select the MP3 you'd like to use and click the **Select** button.
+
+<figure><img src="../.gitbook/assets/audio-block.png" alt="Using the Audio block to add an MP3 to a post"><figcaption><p>Using the Audio block to add an MP3 to a post.</p></figcaption></figure>
+
+#### Adding MP3 files to the Media Library <a href="#adding-mp3-files-to-the-media-library" id="adding-mp3-files-to-the-media-library"></a>
+
+1. Rename MP3 on your computer (see above.)
+2. In the Media Milwaukee **Dashboard**, click the **Media** button (on left.)
+3. Click the **Add New** button.
+4. Click and drag the MP3 files from your computer into the **Drop files to upload** area. **Note**: The maximum upload size is 64 MB.
+5. The MP3 files will appear in the **Media Library**. You may now add the MP3 files directly to a story (see above.)

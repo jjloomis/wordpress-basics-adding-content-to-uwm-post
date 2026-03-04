@@ -7,4 +7,4 @@ Headings allow you to organize a post into different sections. When adding a hea
 3. Add your text to the **Heading** block.
 4. Click **Save draft** when finished.
 
-<figure><img src="../.gitbook/assets/adding-a-heading.png" alt="Adding a heading to a WordPress Post"><figcaption><p>Adding a heading to a WordPress Post.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/adding-a-heading.png" alt="Adding a heading to a WordPress post"><figcaption><p>Adding a heading to a WordPress post.</p></figcaption></figure>

@@ -6,4 +6,4 @@
 4. To create an indented list item, press **Enter** or **Return** (on keyboard) to add a new list item. Then press the **Tab** key (on keyboard) to create an indented item.
 5. To un-indent a list item, press the **Delete** key (on keyboard).
 
-<figure><img src="../.gitbook/assets/adding-a-numbered-list.png" alt="Adding a numbered list to a WordPress Post"><figcaption><p>Adding a numbered list to a WordPress Post.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/adding-a-numbered-list.png" alt="Adding a numbered list to a WordPress post"><figcaption><p>Adding a numbered list to a WordPress post.</p></figcaption></figure>

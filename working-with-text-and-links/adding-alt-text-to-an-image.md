@@ -7,4 +7,4 @@ Every image in a post needs an alt text (alternative text) description. Alt text
 3. In the **Alt text** box, add a brief description of the content of the photo.
 4. When finished, click **Save Draft**.
 
-<figure><img src="../.gitbook/assets/adding-alt-text (2).webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/adding-alt-text (2).webp" alt="Adding alt text to an image in a post"><figcaption><p>Adding alt text to an image in a post.</p></figcaption></figure>

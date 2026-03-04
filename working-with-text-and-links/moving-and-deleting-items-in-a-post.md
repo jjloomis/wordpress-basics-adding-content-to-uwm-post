@@ -12,4 +12,4 @@
 2. In the block's toolbar, click the **More options** (three dots) button. In the fly-out menu, choose **Remove block**.
 3. When finished, click **Save draft**.
 
-<br>
+<figure><img src="../.gitbook/assets/remove-block.png" alt="Removing a block from a post"><figcaption><p>Removing a block from a post.</p></figcaption></figure>

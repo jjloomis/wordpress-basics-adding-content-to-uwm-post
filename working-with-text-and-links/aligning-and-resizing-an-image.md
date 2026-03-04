@@ -13,3 +13,5 @@ To change the size of an image in a post, use the alignment/ width options liste
 1. To change image alignment, click the image in the post. In the toolbar that appears above the image, click the **Change alignment** button.
 2. In the drop-down list of alignment options, select the alignment you’d like to use (see above for appropriate use case scenarios.)
 3. To deselect or turn off an alignment option, click it again (it will no longer appear highlighted/ selected. **Note**: The default option is **no alignment** (text column width.)
+
+<figure><img src="../.gitbook/assets/image-alignment.png" alt="Using the image alignment feature to resize an image in a post"><figcaption><p>Using the image alignment feature to resize an image in a post.</p></figcaption></figure>

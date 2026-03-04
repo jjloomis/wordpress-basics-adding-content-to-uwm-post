@@ -5,4 +5,4 @@
 3. To create an indented bullet point, press **Enter** or **Return** to add a new bullet point. Then press the **Tab** key (on keyboard) to create an indented bullet point.
 4. To un-indent a bullet point, press the **Delete** key (on keyboard).
 
-<figure><img src="../.gitbook/assets/adding-a-bulleted-list.png" alt="Adding a bulleted list to a WordPress Post"><figcaption><p>Adding a bulleted list to a WordPress Post.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/adding-a-bulleted-list.png" alt="Adding a bulleted list to a WordPress post"><figcaption><p>Adding a bulleted list to a WordPress post.</p></figcaption></figure>
