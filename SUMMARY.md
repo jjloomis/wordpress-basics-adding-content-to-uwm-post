@@ -40,7 +40,7 @@
 ## Administrator Actions
 
 * [Editing and Publishing a Pending Post](administrator-actions/publishing-a-pending-post.md)
-* [Adding Categories and Adding Story to Home Page](administrator-actions/adding-categories-and-adding-story-to-home-page.md)
+* [Assigning Categories and Adding Story to Home Page](administrator-actions/adding-categories-and-adding-story-to-home-page.md)
 * [Changing Publication Date and Time](administrator-actions/changing-publication-date-and-time.md)
 * [Working with Roles and Adding Users](administrator-actions/adding-users.md)
 
