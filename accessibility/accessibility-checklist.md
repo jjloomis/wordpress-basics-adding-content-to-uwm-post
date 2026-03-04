@@ -10,11 +10,11 @@ When [adding an audio file to a post](/broken/pages/-M5gs3VzmPDvT-sgR1fU), a tra
 
 #### Bulleted List/Unordered List <a href="#bulleted-list-unordered-list" id="bulleted-list-unordered-list"></a>
 
-When adding a bulleted list to a post, you must use the **Unordered List** block. Do not manually create a bulleted list by using the asterisk key (or any other similar approach).
+When [adding a bulleted list to a post](../working-with-text-and-links/adding-a-bulleted-list.md), you must use the **Unordered List** block. Do not manually create a bulleted list by using the asterisk key (or any other similar approach).
 
 #### Headings/Subheadings <a href="#headings-subheadings" id="headings-subheadings"></a>
 
-When adding headings/subheadings to a post, use the **Heading** block. This will create an **H2** heading within the post. In general, an **H2** heading is the only type of heading a **Media Milwaukee Contributor** should add to a post. **Note**: Do not make the heading bold (it is already bold).
+When [adding headings/subheadings to a post](../working-with-text-and-links/adding-a-heading.md), use the **Heading** block. This will create an **H2** heading within the post. In general, an **H2** heading is the only type of heading a **Media Milwaukee Contributor** should add to a post. **Note**: Do not make the heading bold (it is already bold).
 
 #### Images <a href="#images" id="images"></a>
 
@@ -29,7 +29,7 @@ When [adding a link to a post](../working-with-text-and-links/creating-a-link.md
 
 #### Numbered List/Ordered List <a href="#numbered-list-ordered-list" id="numbered-list-ordered-list"></a>
 
-When adding a numbered list to a post, you must use the **Ordered List** block. Do not attempt to manually create a numbered list by typing numbers into a post.
+When [adding a numbered list to a post](../working-with-text-and-links/adding-a-numbered-list.md), you must use the **Ordered List** block. Do not attempt to manually create a numbered list by typing numbers into a post.
 
 #### Video <a href="#video" id="video"></a>
 
