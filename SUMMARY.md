@@ -19,6 +19,7 @@
 * [Editing a Link](working-with-text-and-links/editing-a-link.md)
 * [Editing the URL of a Post](working-with-text-and-links/editing-a-url.md)
 * [Adding a Bulleted List](working-with-text-and-links/adding-a-bulleted-list.md)
+* [Adding a Numbered List](working-with-text-and-links/adding-a-numbered-list.md)
 
 ## Working with Media
 
