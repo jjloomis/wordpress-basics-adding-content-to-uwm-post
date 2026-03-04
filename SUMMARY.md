@@ -18,10 +18,10 @@
 * [Creating a Link](working-with-text-and-links/creating-a-link.md)
 * [Editing a Link](working-with-text-and-links/editing-a-link.md)
 * [Editing the URL of a Post](working-with-text-and-links/editing-a-url.md)
+* [Adding a Bulleted List](working-with-text-and-links/adding-a-bulleted-list.md)
 
 ## Working with Media
 
-* [Working with a Style Guide](working-with-media/working-with-a-style-guide.md)
 * [Adding an Image to a Post](working-with-media/adding-an-image-to-a-post.md)
 * [Wrapping Text Around an Image](working-with-media/wrapping-text-around-an-image.md)
 * [Changing the Size of an Image](working-with-media/changing-the-size-of-an-image.md)
@@ -37,7 +37,6 @@
 * [Removing a PDF from a Post](working-with-media/deleting-a-pdf.md)
 * [Adding a Horizontal Line to a Post](working-with-media/adding-a-horizontal-line.md)
 * [Removing a Horizontal Line from a Post](working-with-media/deleting-a-horizontal-line.md)
-* [Adding an Image with MP3 to a Post](working-with-media/adding-an-image-with-mp3-to-a-post.md)
 
 ## Accessibility
 

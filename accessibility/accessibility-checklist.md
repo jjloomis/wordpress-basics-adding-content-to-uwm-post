@@ -6,7 +6,7 @@ While the items listed below are not an exhaustive list of all ADA Title II WCAG
 
 #### Audio <a href="#audio" id="audio"></a>
 
-When [adding an audio file to a post](../working-with-media/adding-an-image-with-mp3-to-a-post.md), a transcript of the audio file must be included in the post. If you haven't already done so, [create a transcript of the audio file](https://techresources.gitbook.io/microsoft-word-tips-and-tricks/using-word-online-to-transcribe-an-audio-file). Then use the **Transcript** block to [add a transcript to the post](adding-a-transcript-to-a-post.md).
+When [adding an audio file to a post](/broken/pages/-M5gs3VzmPDvT-sgR1fU), a transcript of the audio file must be included in the post. If you haven't already done so, [create a transcript of the audio file](https://techresources.gitbook.io/microsoft-word-tips-and-tricks/using-word-online-to-transcribe-an-audio-file). Then use the **Transcript** block to [add a transcript to the post](adding-a-transcript-to-a-post.md).
 
 #### Bulleted List/Unordered List <a href="#bulleted-list-unordered-list" id="bulleted-list-unordered-list"></a>
 
