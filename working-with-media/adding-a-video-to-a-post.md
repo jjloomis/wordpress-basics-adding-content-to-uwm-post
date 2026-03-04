@@ -6,21 +6,3 @@
 4. Switch to Text editor and find the video's URL.&#x20;
 5. Add the following shortcode to the end of the URL. The shortcode will make the video the full width of the column and stop related videos from playing.
 6. When finished, click **Submit for Review** or **Publish**.&#x20;
-
-## Media Milwaukee
-
-```
-&w=700&rel=0
-```
-
-## UWM Post
-
-```
-&w=697&rel=0
-```
-
-## Example YouTube URL with added shortcode
-
-```
-https://www.youtube.com/watch?v=u8vq1QZ8q6g&w=700&rel=0
-```
