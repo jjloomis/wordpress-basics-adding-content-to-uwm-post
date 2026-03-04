@@ -1,11 +1,9 @@
-# Creating a Link
+# Creating or Editing a Link
 
-1. Make sure the [Visual editor](working-with-content-in-the-visual-editor.md) is active.
-2. Open a new broswer tab and go to the webpage you want to use in your link. (You can also create links to other posts in the site.)
-3. Copy the full URL of the webpage.
-4. In the the Visual editor, select the text you would like to make into a link.
-5. Click the **Insert/edit link** button in the Visual editor toolbar.
-6. Paste the URL in the Insert/edit link box.
-7. Click the **Apply** button.
-8. Click **Submit for Review** or **Publish**.&#x20;
-9. Click **View Post** and make sure the link is working correctly. If it is not working correctly, you'll need to edit the link.
+1. Open a new browser tab and go to the webpage you want to use in your link. (You can also create links to other **Posts** in Media Milwaukee.)
+2. Copy the full **URL** of the webpage.
+3. In a **Post**, drag-select the text you'd like to make into a link. **Note**: Link text should describe the webpage that will open when the link is clicked. Do not use phrases such as "click here" or "this link" when creating link text.
+4. Click the **Link** button in the **text toolbar.**
+5. Paste the URL in the **Search or type url** field. Click the **Submit** button (arrow.)
+
+<figure><img src="../.gitbook/assets/adding-a-link.png" alt="Adding a link to a WordPress Post"><figcaption><p>Adding a link to a WordPress Post.</p></figcaption></figure>
