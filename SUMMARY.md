@@ -42,6 +42,7 @@
 ## Accessibility
 
 * [Adding a Transcript to a Post](accessibility/adding-a-transcript-to-a-post.md)
+* [Accessibility Checklist](accessibility/accessibility-checklist.md)
 
 ## Administrator Actions
 
