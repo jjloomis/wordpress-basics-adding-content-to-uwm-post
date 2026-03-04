@@ -15,9 +15,9 @@
 * [Adding Categories and Tags](working-with-text-and-links/adding-categories-and-tags.md)
 * [Working with Content in the Visual Editor](working-with-text-and-links/working-with-content-in-the-visual-editor.md)
 * [Working with Content in the Text Editor](working-with-text-and-links/working-with-content-in-the-text-editor.md)
-* [Creating or Editing a Link](working-with-text-and-links/creating-a-link.md)
-* [Editing a Link](working-with-text-and-links/editing-a-link.md)
 * [Editing the URL of a Post](working-with-text-and-links/editing-a-url.md)
+* [Adding a Heading](working-with-text-and-links/adding-a-heading.md)
+* [Creating or Editing a Link](working-with-text-and-links/creating-a-link.md)
 * [Adding a Bulleted List](working-with-text-and-links/adding-a-bulleted-list.md)
 * [Adding a Numbered List](working-with-text-and-links/adding-a-numbered-list.md)
 
