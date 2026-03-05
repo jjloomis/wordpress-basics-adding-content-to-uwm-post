@@ -14,7 +14,7 @@ When [adding a bulleted list to a post](../working-with-text-and-links/adding-a-
 
 #### Headings/Subheadings <a href="#headings-subheadings" id="headings-subheadings"></a>
 
-When [adding headings/subheadings to a post](../working-with-text-and-links/adding-a-heading.md), use the **Heading** block. This will create an **H2** heading within the post. In general, an **H2** heading is the only type of heading a **Media Milwaukee Contributor** should add to a post. **Note**: Do not make the heading bold (it is already bold).
+When [adding headings/subheadings to a post](../working-with-text-and-links/adding-a-heading.md), use the **Heading** block. This will create an **H2** heading within the post. In general, an **H2** heading is the only type of heading a **UWM Post Contributor** should add to a post. **Note**: Do not make the heading bold (it is already bold).
 
 #### Images <a href="#images" id="images"></a>
 
