@@ -33,4 +33,4 @@ When [adding a numbered list to a post](../working-with-text-and-links/adding-a-
 
 #### Video <a href="#video" id="video"></a>
 
-When [adding a video to a post](../working-with-text-and-links/adding-a-video-to-a-post.md), the video must include captions. By default, YouTube automatically creates captions for videos uploaded to its platform. However, it is incumbent upon **Media Milwaukee Editors** to ensure that YouTube captions are functioning correctly for any video added to a post.
+When [adding a video to a post](../working-with-text-and-links/adding-a-video-to-a-post.md), the video must include captions. By default, YouTube automatically creates captions for videos uploaded to its platform. However, it is incumbent upon **UWM Post Editors** to ensure that YouTube captions are functioning correctly for any video added to a post.
